@@ -23,7 +23,12 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 
 ### Screenshot
+Mobile-view
 
+
+![mobile-view](https://user-images.githubusercontent.com/88828065/190434144-61646093-519c-4a22-afcc-b85af3311f4c.PNG)
+Desktop-view
+![desktop-view](https://user-images.githubusercontent.com/88828065/190434206-774a5435-7a7d-4473-8293-12fee15c8c90.PNG)
 
 ### Links
 
