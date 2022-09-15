@@ -27,13 +27,17 @@ Mobile-view
 
 
 ![mobile-view](https://user-images.githubusercontent.com/88828065/190434144-61646093-519c-4a22-afcc-b85af3311f4c.PNG)
+
+
+
+
 Desktop-view
 ![desktop-view](https://user-images.githubusercontent.com/88828065/190434206-774a5435-7a7d-4473-8293-12fee15c8c90.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/responsive-page-using-css-flexbox-jBN36j3mAZ)
+- Live Site URL: [Live-site]([https://your-live-site-url.com](https://charming-gaufre-d6067b.netlify.app/))
 
 ## My process
 
@@ -52,7 +56,7 @@ The use transform
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Hawi Girmahew](https://charming-gaufre-d6067b.netlify.app/))
 - Frontend Mentor - [@Hawigirmachew](https://www.frontendmentor.io/profile/Hawigirmachew))
 - Twitter - [@girmachee_h](https://twitter.com/girmachee_h)
 
