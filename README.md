@@ -37,7 +37,7 @@ Desktop-view
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/responsive-page-using-css-flexbox-jBN36j3mAZ)
-- Live Site URL: [Live-site]((https://charming-gaufre-d6067b.netlify.app/)
+- Live Site URL: [Live-site](https://charming-gaufre-d6067b.netlify.app/)
 
 ## My process
 
@@ -56,8 +56,8 @@ The use transform
 
 ## Author
 
-- Website - [Hawi Girmahew](https://charming-gaufre-d6067b.netlify.app/))
-- Frontend Mentor - [@Hawigirmachew](https://www.frontendmentor.io/profile/Hawigirmachew))
+- Website - [Hawi Girmahew](https://charming-gaufre-d6067b.netlify.app/)
+- Frontend Mentor - [@Hawigirmachew](https://www.frontendmentor.io/profile/Hawigirmachew)
 - Twitter - [@girmachee_h](https://twitter.com/girmachee_h)
 
 
